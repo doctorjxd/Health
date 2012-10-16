@@ -9,3 +9,5 @@
 
 这周是本部最后一周课了，以后和大家只能网上联系了。
 祝大家学习进步，一切顺利！
+
+如果你注册了github帐号，可以在[这里给我留言](https://github.com/doctorjxd/Health/issues)，讨论这门课程。
